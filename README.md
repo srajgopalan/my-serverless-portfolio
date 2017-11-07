@@ -1,2 +1,3 @@
-# my-serverless-portfolio
-This is my professional portfolio
+# Shrikanth Rajgopalan's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
